@@ -1,0 +1,27 @@
+Hello!
+
+How are you?
+
+I am learning Neural Machine Translation.
+
+This is a simple example for testing.
+
+The model predicted this sentence.
+
+मैं घर गया।
+
+वह स्कूल जा रहा है।
+
+आज मौसम बहुत अच्छा है।
+
+क्या तुम ठीक हो?
+
+यह एक परीक्षण वाक्य है।
+
+Machine translation is really interesting!
+
+Deep learning models require lots of data.
+
+Transformers are powerful architectures.
+
+Good luck with your project!
